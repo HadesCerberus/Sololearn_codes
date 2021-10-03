@@ -1,2 +1,2 @@
 # Sololearn_codes
-Codes Projects
+All Codes and Projects clearly labeled
